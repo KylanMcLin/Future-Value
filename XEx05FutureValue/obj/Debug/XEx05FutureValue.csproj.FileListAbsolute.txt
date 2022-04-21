@@ -1,0 +1,62 @@
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\csc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\vbc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\XEx05FutureValue.dll.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\XEx05FutureValue.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\XEx05FutureValue.pdb
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.pdb
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\csc.exe
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\vbc.exe
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\XEx05FutureValue.dll.config
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\XEx05FutureValue.dll
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\XEx05FutureValue.pdb
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.dll
+C:\aspnet46_cs\exercises_extra\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.pdb
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\csc.exe
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\vbc.exe
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\XEx05FutureValue.dll.config
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\XEx05FutureValue.dll
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\XEx05FutureValue.pdb
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.csproj.CopyComplete
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.dll
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.pdb
+C:\Users\Kylan McLin\Source\Repos\XEx05FutureValue\XEx05FutureValue\obj\Debug\XEx05FutureValue.csproj.AssemblyReference.cache
